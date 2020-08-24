@@ -67,7 +67,7 @@ def get_arguments():
     parser.add_argument(
         "--dataset-dir",
         type=str,
-        default="/media/usr515/26C0245EC0243709/cxy/1909/data/srdata",
+        default="./data/data/train/2011_09_26_drive_0001_sync/image_02/data",
         help="Path to the root directory of the selected dataset. "
         "Default: data/CamVid")
 

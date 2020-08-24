@@ -105,3 +105,6 @@ def get_arguments():
         help="The directory where models are saved. Default: save")
 
     return parser.parse_args()
+
+args=get_arguments()
+print(args.dataset_dir)

@@ -18,6 +18,7 @@ class CamVid(data.Dataset):
 
     def __getitem__(self, index):
 
+        print(index)
         names = self._file_names[index]
 
         data_path = os.path.join(self.root_dir, names[0])

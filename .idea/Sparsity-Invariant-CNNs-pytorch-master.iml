@@ -4,5 +4,7 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="jdk" jdkName="Python 3.7 (tf22py37)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="py627-1836" />
+    <orderEntry type="module" module-name="paddlepy628-1144" />
   </component>
 </module>

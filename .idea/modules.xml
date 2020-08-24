@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Sparsity-Invariant-CNNs-pytorch-master.iml" filepath="$PROJECT_DIR$/.idea/Sparsity-Invariant-CNNs-pytorch-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tmp6-26/pycharmProgram/paddle6-28/paddlepy628-1144/.idea/paddlepy628-1144.iml" filepath="$PROJECT_DIR$/../tmp6-26/pycharmProgram/paddle6-28/paddlepy628-1144/.idea/paddlepy628-1144.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tmp6-26/pycharmProgram/pytest6-27/py627-1836/.idea/py627-1836.iml" filepath="$PROJECT_DIR$/../tmp6-26/pycharmProgram/pytest6-27/py627-1836/.idea/py627-1836.iml" />
     </modules>
   </component>
 </project>

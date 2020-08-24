@@ -101,7 +101,7 @@ def get_arguments():
     parser.add_argument(
         "--save-dir",
         type=str,
-        default='save',
+        default='/kaggle/working/save',
         help="The directory where models are saved. Default: save")
 
     return parser.parse_args()

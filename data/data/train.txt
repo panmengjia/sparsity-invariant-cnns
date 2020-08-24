@@ -18,7 +18,7 @@ image_s/0000000042.png	image_d/0000000042.png
 image_s/0000000043.png	image_d/0000000043.png
 image_s/0000000044.png	image_d/0000000044.png
 image_s/0000000045.png	image_d/0000000045.png
-image_s/0000000046.png  image_d/0000000046.png
+image_s/0000000046.png	image_d/0000000046.png
 image_s/0000000047.png	image_d/0000000047.png
 image_s/0000000048.png	image_d/0000000048.png
 image_s/0000000049.png	image_d/0000000049.png

@@ -106,5 +106,4 @@ def get_arguments():
 
     return parser.parse_args()
 
-args=get_arguments()
-print(args.dataset_dir)
+

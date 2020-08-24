@@ -67,7 +67,7 @@ def get_arguments():
     parser.add_argument(
         "--dataset-dir",
         type=str,
-        default="/kaggle/working/sparsity-invariant-cnns/data/data/train/2011_09_26_drive_0001_sync/image_02/data",
+        default="/kaggle/working/sparsity-invariant-cnns/data/data",
         help="Path to the root directory of the selected dataset. "
         "Default: data/CamVid")
 
